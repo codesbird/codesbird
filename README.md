@@ -11,6 +11,7 @@
 **🚀 Projects:**
 - **Chrome Extension:** Detects and highlights dark patterns in web pages.
 - **EduPlatform:** AI-driven personalized learning and progress tracking.
+- **YouTube Mp3:** Platform like youtube, but streams will play in audio form with perfect UI.
 
 **📚 Currently Learning:**
 - Machine Learning
