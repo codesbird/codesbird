@@ -62,7 +62,7 @@ Thank you for visiting my profile! Feel free to reach out if you have any questi
 ### Hi there, I'm Monu Saini 👋
 
 <div align="right">
-  <img src="[https://via.placeholder.com/150](https://github.com/codesbird/codesbird/blob/main/images.jpeg)" alt="Profile Image" style="border-radius: 50%;" width="150" height="150">
+  <img src="https://github.com/codesbird/codesbird/blob/main/images.jpeg" alt="Profile Image" style="border-radius: 50%;" width="150" height="150">
 </div>
 
 Welcome to my GitHub! I'm a passionate coder and data science enthusiast, always excited to work on innovative projects.
