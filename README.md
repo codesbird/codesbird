@@ -1,6 +1,6 @@
 # Hi there, I'm Monu Saini 👋
 
-###### Welcome to my GitHub! I'm a passionate coder and data science enthusiast, always excited to work on innovative projects. *
+##### Welcome to my GitHub! I'm a passionate coder and data science enthusiast, always excited to work on innovative projects. *
 
 ---
 
