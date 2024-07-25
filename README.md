@@ -33,18 +33,19 @@ Welcome to my GitHub profile! I'm passionate about coding, data science, and tec
 
 **📈 Learning Roadmaps:**
 - **Machine Learning:** Practical learning with projects and notes
-- **Data Structures with C:** Following a unit-wise timeline for effective learning
+<!-- **Data Structures with C:** Following a unit-wise timeline for effective learning
 - **Operating Systems, Cybersecurity, Database Management Systems, and Java OOP Concepts:** Preparing with detailed syllabi and suggested readings
-
+-->
 **🌐 Find Me Online:**
 - **LinkedIn:** [Monu Saini](https://www.linkedin.com/in/monupydev)
-- **Instagram:** Uploads comedy scenes, cricket viral videos, and more
+<!-- **Instagram:** Uploads comedy scenes, cricket viral videos, and more 
 
 **📧 Contact Me:**
 - **Email:** [monusainideveloper@gmail.com](mailto:monusainideveloper@gmail.com)
 - **Phone:** +91 8696807790
 
 ---
+-->
 
 **🌟 Fun Facts:**
 - I enjoy watching movies, listening to music, and exploring new technologies.
