@@ -57,7 +57,7 @@ Thank you for visiting my profile! Feel free to reach out if you have any questi
 ### Hi there, I'm Monu Saini 👋
 
 <p align="right">
-  <img width="460" height="300" src="[http://www.fillmurray.com/460/300](https://github.com/codesbird/codesbird/blob/main/images.jpeg)">
+  <img width="460" height="300" src="https://github.com/codesbird/codesbird/blob/main/images.jpeg">
 </p>
 
 <span style="text-align:left;">
