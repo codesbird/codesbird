@@ -54,16 +54,13 @@ Welcome to my GitHub profile! I'm passionate about coding, data science, and tec
 
 Thank you for visiting my profile! Feel free to reach out if you have any questions or collaboration ideas. Let's connect and create something amazing together!
 -->
-
 ### Hi there, I'm Monu Saini 👋
+
+<img src="https://via.placeholder.com/150" align="right" alt="Profile Image" style="border-radius: 50%;" width="150" height="150">
 
 Welcome to my GitHub! I'm a passionate coder and data science enthusiast, always excited to work on innovative projects.
 
 ---
-
-**🎓 Education:**
-- **MCA** (Pursuing) from AKTU, Lucknow
-- **BCA** from Rajasthan University
 
 **💻 Skills:**
 - **Languages:** Python, C
@@ -83,10 +80,7 @@ Welcome to my GitHub! I'm a passionate coder and data science enthusiast, always
 
 **🌐 Connect with Me:**
 - **[LinkedIn](https://www.linkedin.com/in/monupydev)**
-- **Email:** [monusainideveloper@gmail.com](mailto:monusainideveloper@gmail.com)
-- **Phone:** +91 8696807790
-
-**📸 Instagram:** Sharing comedy and viral videos.
+- **📸 Instagram:** Sharing comedy and viral videos.
 
 ---
 
@@ -95,4 +89,3 @@ Welcome to my GitHub! I'm a passionate coder and data science enthusiast, always
 - Always exploring new tech trends.
 
 Let's connect and create something amazing! 🚀
-
