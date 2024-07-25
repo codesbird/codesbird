@@ -5,9 +5,11 @@
 ---
 
 **💻 Skills:**
-- **Languages:** Python, C
-- **Technologies:** Machine Learning, Data Analysis, Git, SQL, Chrome Extensions
-
+- **Programming Languages:** Python
+- **Data Science:** Machine Learning, Data Analysis
+- **Web Development:** HTML, CSS, JavaScript
+- **Other Technologies:** Git, SQL,Bootstrap,DSAA, Chrome Extensions
+  
 **🚀 Projects:**
 - **Chrome Extension:** Detects and highlights dark patterns in web pages.
 - **EduPlatform:** AI-driven personalized learning and progress tracking.
