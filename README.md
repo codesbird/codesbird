@@ -8,7 +8,7 @@
 - **Programming Languages:** Python
 - **Data Science:** Machine Learning, Data Analysis
 - **Web Development:** HTML, CSS, JavaScript
-- **Other Technologies:** Git, SQL,Bootstrap,DSAA, Chrome Extensions
+- **Other Technologies:** Git, SQL, Bootstrap, Django, DSAA, Chrome Extensions
   
 **🚀 Projects:**
 - **Chrome Extension:** Detects and highlights dark patterns in web pages.
