@@ -11,9 +11,9 @@
 - **Other Technologies:** Git, SQL, Bootstrap, Django, DSAA, Chrome Extensions
   
 **🚀 Projects:**
-- **Chrome Extension:** Detects and highlights dark patterns in web pages. [Go](https://github.com/codesbird/ksecure/blob/main/README.md)
+- **Chrome Extension:** Detects and highlights dark patterns in web pages.
 - **EduPlatform:** AI-driven personalized learning and progress tracking.
-- **YouTube Mp3:** Platform like youtube, but streams will play in audio form with perfect UI. [Go](https://github.com/codesbird/playmp3/blob/main/README.md)
+- **YouTube Mp3:** Platform like youtube, but streams will play in audio form with perfect UI. [Go to details-](https://projectksecure.blogspot.com/)
 - **News Aggregator Platform:** Automatically uploads news from Aaj Tak, Times of India, and other channels using self-developed APIs.
 
 **📚 Currently Learning:**
