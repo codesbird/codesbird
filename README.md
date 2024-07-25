@@ -1,5 +1,5 @@
 # Hi there, I'm Monu Saini 👋
-
+-
 ##### Welcome to my GitHub! I'm a passionate coder and data science enthusiast, always excited to work on innovative projects.
 
 ---
@@ -16,11 +16,7 @@
 
 **📚 Currently Learning:**
 - Machine Learning
-- Advanced Data Structures (C
-
-
-
-Welcome to my GitHub! I'm a passionate coder and data science enthusiast, always excited to work on innovative projects.
+- Advanced Data Structures with C language
 
 ---
 
