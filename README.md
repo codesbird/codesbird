@@ -56,8 +56,30 @@ Thank you for visiting my profile! Feel free to reach out if you have any questi
 -->
 ### Hi there, I'm Monu Saini 👋
 
-![avatar](https://images.weserv.nl/?url=https://github.com/codesbird/codesbird/blob/main/images.jpeg?raw=true?v=4&h=150&w=150&fit=right&mask=circle&maxage=7d
+![avatar](https://images.weserv.nl/?url=https://github.com/codesbird/codesbird/blob/main/images.jpeg?raw=true?v=4&h=150&w=150&fit=cover&mask=circle&maxage=7d
 )
+
+### Hi there, I'm Monu Saini 👋
+
+<div align="right">
+  <img src="[https://via.placeholder.com/150](https://github.com/codesbird/codesbird/blob/main/images.jpeg)" alt="Profile Image" style="border-radius: 50%;" width="150" height="150">
+</div>
+
+Welcome to my GitHub! I'm a passionate coder and data science enthusiast, always excited to work on innovative projects.
+
+---
+
+**💻 Skills:**
+- **Languages:** Python, C
+- **Technologies:** Machine Learning, Data Analysis, Git, SQL, Chrome Extensions
+
+**🚀 Projects:**
+- **Chrome Extension:** Detects and highlights dark patterns in web pages.
+- **EduPlatform:** AI-driven personalized learning and progress tracking.
+
+**📚 Currently Learning:**
+- Machine Learning
+- Advanced Data Structures (C
 
 
 
