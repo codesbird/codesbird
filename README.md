@@ -3,13 +3,14 @@
 Welcome to my GitHub profile! I'm passionate about coding, data science, and technology. I love building projects that solve real-world problems and enhance user experiences. Here's a bit about me:
 
 ---
+<!--
 
 **🎓 Education:**
 - **MCA** (Pursuing) from AKTU, Lucknow
 - **BCA** from Rajasthan University, 72%
 - **12th Grade** from RBSE, 77%
 - **10th Grade** from RBSE, 70%
-
+-->
 **💼 Skills:**
 - **Programming Languages:** Python,
 - **Data Science:** Machine Learning, Data Analysis
@@ -19,10 +20,7 @@ Welcome to my GitHub profile! I'm passionate about coding, data science, and tec
 **📚 Currently Learning:**
 - Machine Learning
 - Advanced Data Structures with C
-- Operating Systems
-- Cybersecurity
 - Database Management Systems
-- Java OOP Concepts
 
 **🚀 Projects:**
 1. **Chrome Extension for Dark Patterns Detection:**
