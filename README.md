@@ -5,8 +5,8 @@
 ---
 
 **🎓 Education:**
-- **MCA** (Pursuing) from AKTU, Lucknow
 - **BCA** from Rajasthan University
+- **MCA** (Pursuing) from AKTU, Lucknow
 
 ---
 
