@@ -12,7 +12,7 @@
 - **Chrome Extension:** Detects and highlights dark patterns in web pages.
 - **EduPlatform:** AI-driven personalized learning and progress tracking.
 - **YouTube Mp3:** Platform like youtube, but streams will play in audio form with perfect UI.
-- **Teesers News:** Platform to see latest news, Upload aumatically from 5 other channels . (Selft Developed APIs) (Aaj Tak, Times of India,....) 
+- **News Aggregator Platform:** Automatically uploads news from Aaj Tak, Times of India, and other channels using self-developed APIs.
 
 **📚 Currently Learning:**
 - Machine Learning
