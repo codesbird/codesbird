@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, data science, and tec
 **🚀 Projects:**
 1. **Chrome Extension for Dark Patterns Detection:**
    - Scrapes and analyzes the DOM of the active tab
-   - Highlights elements containing dark patterns
+   - Highlights elements containing [dark patterns](https://projectksecure.blogspot.com/2024/06/what-are-deceptive-patterns.html)
 
 2. **Personalized Education Platform:**
    - Uses generative AI to tailor educational content to students
