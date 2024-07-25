@@ -19,29 +19,8 @@
 **📚 Currently Learning:**
 - Machine Learning
 - Advanced Data Structures with C language
-
+- Database Management System
 ---
-
-**💼 Skills !
-- **Programming Languages:** Python,
-- **Data Science:** Machine Learning, Data Analysis
-- **Web Development:** HTML, CSS, JavaScript
-- **Other Technologies:** Git,Bootstap,Django, *DSAA*, SQL, Chrome Extensions
-
-**🚀 Projects:**
-1. **Chrome Extension for Dark Patterns Detection:**
-   - Scrapes and analyzes the DOM of the active tab
-   - Highlights elements containing [dark patterns](https://projectksecure.blogspot.com/2024/06/what-are-deceptive-patterns.html)
-
-2. **Personalized Education Platform:**
-   - Uses generative AI to tailor educational content to students
-   - Helps teachers track student growth and generate reports
-
-
-**📚 Currently Learning:**
-- Machine Learning
-- Advanced Data Structures (C)
-- Database Management
 
 **📈 Learning Roadmaps:**
 - **Machine Learning:** Practical learning with projects and notes
