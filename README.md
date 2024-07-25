@@ -11,10 +11,10 @@ Welcome to my GitHub profile! I'm passionate about coding, data science, and tec
 - **10th Grade** from RBSE, 70%
 
 **💼 Skills:**
-- **Programming Languages:** Python, C
+- **Programming Languages:** Python,
 - **Data Science:** Machine Learning, Data Analysis
 - **Web Development:** HTML, CSS, JavaScript
-- **Other Technologies:** Git, SQL, Chrome Extensions
+- **Other Technologies:** Git,Bootstap,Django, *DSAA*, SQL, Chrome Extensions
 
 **📚 Currently Learning:**
 - Machine Learning
