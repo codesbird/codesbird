@@ -56,7 +56,7 @@ Thank you for visiting my profile! Feel free to reach out if you have any questi
 -->
 ### Hi there, I'm Monu Saini 👋
 
-<img src="/profile.png" align="right" alt="Profile Image" style="border-radius: 50%;" width="150px" height="150px">
+<img src="./images.jpeg" align="right" alt="Profile Image" style="border-radius: 50%;" width="150px" height="150px">
 
 Welcome to my GitHub! I'm a passionate coder and data science enthusiast, always excited to work on innovative projects.
 
