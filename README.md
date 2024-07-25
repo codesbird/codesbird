@@ -56,7 +56,7 @@ Thank you for visiting my profile! Feel free to reach out if you have any questi
 -->
 ### Hi there, I'm Monu Saini 👋
 
-<img src="https://via.placeholder.com/150" align="right" alt="Profile Image" style="border-radius: 50%;" width="150" height="150">
+<img src="https://via.placeholder.com/150" align="right" alt="Profile Image" style="border-radius: 50%;" width="150px" height="150px">
 
 Welcome to my GitHub! I'm a passionate coder and data science enthusiast, always excited to work on innovative projects.
 
@@ -73,19 +73,17 @@ Welcome to my GitHub! I'm a passionate coder and data science enthusiast, always
 **📚 Currently Learning:**
 - Machine Learning
 - Advanced Data Structures (C)
-- Operating Systems
-- Cybersecurity
 - Database Management
-- Java OOP
 
 **🌐 Connect with Me:**
-- **[LinkedIn](https://www.linkedin.com/in/monupydev)**
-- **📸 Instagram:** Sharing comedy and viral videos.
+- **LinkedIn- [Monu Saini](https://www.linkedin.com/in/monupydev)**
 
 ---
 
-**⚡ Fun Facts:**
-- Movie buff and music lover.
-- Always exploring new tech trends.
 
-Let's connect and create something amazing! 🚀
+
+**🌟 Fun Facts:**
+- I enjoy watching movies, listening to music, and exploring new technologies.
+- I am passionate about creating engaging and educational content on Instagram.
+
+Thank you for visiting my profile! Feel free to reach out if you have any questions or collaboration ideas. Let's connect and create something amazing together! 🚀
