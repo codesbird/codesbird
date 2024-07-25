@@ -56,7 +56,7 @@ Thank you for visiting my profile! Feel free to reach out if you have any questi
 -->
 ### Hi there, I'm Monu Saini 👋
 
-![avatar](https://images.weserv.nl/?url=./images.jpeg?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d
+![avatar](https://images.weserv.nl/?url=https://github.com/codesbird/codesbird/blob/main/images.jpeg?raw=true&v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d
 )
 
 Welcome to my GitHub! I'm a passionate coder and data science enthusiast, always excited to work on innovative projects.
