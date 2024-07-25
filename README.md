@@ -4,6 +4,12 @@
 
 ---
 
+**🎓 Education:**
+- **MCA** (Pursuing) from AKTU, Lucknow
+- **BCA** from Rajasthan University
+
+---
+
 **💻 Skills:**
 - **Programming Languages:** Python
 - **Data Science:** Machine Learning, Data Analysis
