@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm passionate about coding, data science, and tec
 <!-- **Data Structures with C:** Following a unit-wise timeline for effective learning
 - **Operating Systems, Cybersecurity, Database Management Systems, and Java OOP Concepts:** Preparing with detailed syllabi and suggested readings
 
-**🌐 Find Me Online:**
+**🌐 Find Me Online:**   
 - **LinkedIn:** [Monu Saini](https://www.linkedin.com/in/monupydev)
 <!-- **Instagram:** Uploads comedy scenes, cricket viral videos, and more 
 
@@ -57,7 +57,7 @@ Thank you for visiting my profile! Feel free to reach out if you have any questi
 ### Hi there, I'm Monu Saini 👋
 
 <p align="right">
-  <img width="460" height="300" src="https://github.com/codesbird/codesbird/blob/main/images.jpeg">
+  <img width="150" height="150" style="border-radius:50" src="https://github.com/codesbird/codesbird/blob/main/images.jpeg">
 </p>
 
 <span style="text-align:left;">
