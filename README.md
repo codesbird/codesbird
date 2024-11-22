@@ -1,47 +1,72 @@
-# Hi there, I'm Monu Saini 👋
+<h1>Hi there, I am <a href="https://github.com/tech2saini" target="_blank">Monu Saini</a> 🙋🏽‍♂️</h1> 
 
-##### Welcome to my GitHub! I'm a passionate coder and data science enthusiast, always excited to work on innovative projects.
+![](https://visitor-badge.glitch.me/badge?page_id=tech2saini) 
 
----
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-**🎓 Education:**
-- **BCA** from Rajasthan University
-- **MCA** (Pursuing) from AKTU, Lucknow
----
-
-**💻 Skills:**
-- **Programming Languages:** Python
-- **Data Science:** Machine Learning, Data Analysis
-- **Web Development:** HTML, CSS, JavaScript
-- **Other Technologies:** Git, SQL, Bootstrap, Django, DSAA, Chrome Extensions
----
-
-**🚀 Projects:**
-- **Chrome Extension:** Detects and highlights dark patterns in web pages.[Go](https://projectksecure.blogspot.com/)
-- **EduPlatform:** AI-driven personalized learning and progress tracking.
-- **YouTube Mp3:** Platform like youtube, but streams will play in audio form with perfect UI.
-- **News Aggregator Platform:** Automatically uploads news from Aaj Tak, Times of India, and other channels using self-developed APIs.
----
-
-**📚 Currently Learning:**
-- Machine Learning
-- Advanced Data Structures with C language
-- Database Management System
----
-
-**📈 Learning Roadmaps:**
-- **Machine Learning:** Practical learning with projects and notes
-- **Data Structures with C:** Following a standard timeline for effective learning
-
-**🌐 Connect with Me:**
-- **LinkedIn- [Monu Saini](https://www.linkedin.com/in/monupydev)**
+I'm a passionate Developer, Data Science enthusiast, and AI/ML advocate who loves solving complex problems and building impactful projects. 🚀
 
 ---
 
+## My Skills <img alt="Computer" width="40px" src="/Assets/desktop.png"/>
 
+**Languages**
 
-**🌟 Fun Facts:**
-- I enjoy watching movies, listening to music, and exploring new technologies.
-- I am passionate about creating engaging and educational content on Instagram.
+<img alt="Python" width="30px" src="/Assets/python.png"/>|<img alt="C" width="30px" src="/Assets/c-programming.png"/>|<img alt="Java" width="30px" src="/Assets/java.png"/>|<img alt="HTML" width="30px" src="/Assets/html.png"/>|<img alt="CSS" width="30px" src="/Assets/css-3.png"/>|<img alt="JavaScript" width="30px" src="/Assets/javascript.png"/>
+|--|--|--|--|--|--|
 
-Thank you for visiting my profile! Feel free to reach out if you have any questions or collaboration ideas. Let's connect and create something amazing together! 🚀
+**Frameworks and Libraries**
+
+<img alt="Bootstrap" width="30px" src="/Assets/bootstrap-logo.png"/>|<img alt="Numpy" width="30px" src="/Assets/numpy.png"/>|<img alt="Pandas" width="30px" src="/Assets/pandas.png"/>|<img alt="TensorFlow" width="30px" src="/Assets/tensorflow.png"/>|<img alt="Keras" width="30px" src="/Assets/keras.png"/>
+|--|--|--|--|--|
+
+**Tools**
+
+<img alt="Git" width="30px" src="/Assets/git.png"/>|<img alt="VSCode" width="30px" src="/Assets/vscode.png"/>|<img alt="Linux" width="30px" src="/Assets/linux.png"/>|<img alt="Jupyter Notebook" width="30px" src="/Assets/jupyter.png"/>
+|--|--|--|--|
+
+---
+
+## My Projects <img alt="Projects" width="40px" src="/Assets/project.png"/>
+
+### [Fake News Detection and Fact-Checking System](https://github.com/tech2saini/fake-news-detection)
+- Leveraged machine learning to detect fake news with high accuracy.
+- Introduced a fact-checking feature using custom APIs.
+- Enhanced user engagement with features like authentication, feedback sharing, and verified channels.
+
+### KSecure: Safe Browsing Extension
+- Developed a Chrome extension to identify dark patterns on e-commerce websites.
+- Integrated tools for internet security, including VPN and ethical design promotion.
+
+### Sales Prediction System
+- Implemented using Python for accurate sales forecasting based on historical data.
+- Utilized `pandas` and `numpy` for data manipulation.
+
+### News Aggregator
+- Built a platform to consolidate news from multiple sources, ensuring relevant and up-to-date content.
+
+---
+
+## Achievements <img alt="Trophy" width="40px" src="/Assets/trophy.png"/>
+
+- **Secretary of Uprise Club**: Coordinated club activities and encouraged peer collaboration.
+- **Hackathons**: Participated in various coding competitions and problem-solving challenges.
+- **AI/ML Research**: Contributed to projects focusing on CNN-based image forgery detection.
+
+---
+
+## Soft Skills <img alt="Skills" width="40px" src="/Assets/soft-skills.png"/>
+
+- Strong communication and team collaboration.
+- Analytical thinking and problem-solving mindset.
+- Passionate about learning and adapting to new technologies.
+
+---
+
+## Connect with Me <img alt="Connect" width="40px" src="/Assets/connect.png"/>
+
+[<img align="left" alt="GitHub" width="30px" src="/Assets/github.png" />](https://github.com/tech2saini)
+[<img align="left" alt="LinkedIn" width="30px" src="/Assets/linkedin.png" />](https://www.linkedin.com/in/monusaini)
+[<img align="left" alt="Instagram" width="30px" src="/Assets/instagram.png" />](https://www.instagram.com/monusainideveloper)
+[<img align="left" alt="Email" width="30px" src="/Assets/gmail.png" />](mailto:monusainideveloper@gmail.com)
+
