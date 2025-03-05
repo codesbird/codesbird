@@ -5,20 +5,25 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 I'm a passionate Developer, Data Science enthusiast, and AI/ML advocate who loves solving complex problems and building impactful projects. 🚀
-
----
+### Hire Me !  
+<a href="https://raw.githubusercontent.com/Tech2Saini/tech2saini/5e891ef03b511bcb7b3864f245c661ec5bd10f05/Monu%20Saini%20Resume.pdf" onclick="window.open(this.href); return false;" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/Download%20CV-238636?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
+</a>
+<a href="https://codesbird.github.io/portfolio/" onclick="window.open(this.href); return false;" style="margin-left:10px;">
+  <img src="https://img.shields.io/badge/My%20Portfolio-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Button">
+</a>
 
 ## My Skills <img alt="Computer" width="40px" src="/Assets/desktop.png"/>
 
 **Languages**
 
-<img alt="Python" width="30px" src="/Assets/python.png"/>|<img alt="C" width="30px" src="/Assets/c-programming.png"/>|<img alt="Java" width="30px" src="/Assets/java.png"/>|<img alt="HTML" width="30px" src="/Assets/html.png"/>|<img alt="CSS" width="30px" src="/Assets/css-3.png"/>|<img alt="JavaScript" width="30px" src="/Assets/javascript.png"/>
-|--|--|--|--|--|--|
+<img alt="Python" width="30px" src="/Assets/python.png"/>|<img alt="C" width="30px" src="/Assets/c-programming.png"/>|<img alt="HTML" width="30px" src="/Assets/html.png"/>|<img alt="CSS" width="30px" src="/Assets/css-3.png"/>|<img alt="JavaScript" width="30px" src="/Assets/javascript.png"/>
+|--|--|--|--|--|
 
 **Frameworks and Libraries**
 
-<img alt="Bootstrap" width="30px" src="/Assets/bootstrap-logo.png"/>|<img alt="Numpy" width="30px" src="/Assets/numpy.png"/>|<img alt="Pandas" width="30px" src="/Assets/pandas.png"/>|<img alt="TensorFlow" width="30px" src="/Assets/tensorflow.png"/>|<img alt="Keras" width="30px" src="/Assets/keras.png"/>
-|--|--|--|--|--|
+<img alt="Bootstrap" width="30px" src="/Assets/bootstrap-logo.png"/>|<img alt="Numpy" width="30px" src="/Assets/numpy.png"/>|<img alt="Pandas" width="30px" src="/Assets/pandas.png"/>|<img alt="TensorFlow" width="30px" src="/Assets/tensorflow.png"/>
+|--|--|--|--|
 
 **Tools**
 
